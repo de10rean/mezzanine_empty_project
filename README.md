@@ -4,16 +4,13 @@ It is for you - peaple that tired to do it again and again.
 # QUICK START
 
 ## STEP #1
-Fork with repository to create your own mezzanine-project
-
-## STEP #2
 Clone it to your machine
 
-## STEP #3
+## STEP #2
 Create virtual environment for your project and install dependencies by command:<br>
 `pip install -r requirements.txt`
 
-## STEP #4 (Little bit configure)
+## STEP #3 (Little bit configure)
 #### DB config
 You have 2 ways:
 * Configure it int settings.py
