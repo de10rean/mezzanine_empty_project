@@ -9,7 +9,7 @@ Duplicate it repository
 
 * Create a bare mirrored clone of the repository
 ```bash
-git clone --mirror https://github.com/de10rean/mezzanine_empty_project.git <your project directory>
+git clone https://github.com/de10rean/mezzanine_empty_project.git <your project directory>
 ```
 * Set the push location to your mirror.
 ```bash
