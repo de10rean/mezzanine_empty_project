@@ -1,6 +1,5 @@
 # MEZZANINE EMPTY PROJECT
-I done it, because i`m very tired to create and config project
-using Mezzanine CSM
+It is for you - peaple that tired to do it again and again.  
 
 # QUICK START
 
@@ -30,6 +29,11 @@ Migrate your DB by using command:
 ## STEP #5 (optional)
 Create admin user for test that you project works, with this command:
 `python manage.py createsuperuser`
+
+# USED DISTRIBUTIONS
+python >= 3.5
+Dajngo == 1.10
+Mezzanine == 4.2.3
 
 # ADDITIONAL INFO
 That code contain main project app directory named `projectapp`. You can rename
