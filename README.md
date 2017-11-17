@@ -24,8 +24,8 @@ Create virtual environment for your project and install dependencies by command:
 ## STEP #3 (Little bit configure)
 #### DB config
 You have 2 ways:
-* Configure it int settings.py
-* Configure it int settings_local.py (privilege)
+* Configure it in settings.py
+* Configure it in settings_local.py (not tracked by git)
 [This](https://docs.djangoproject.com/en/1.11/ref/settings/#databases) can help you
 #### Static files config
 You can use [that](https://docs.djangoproject.com/en/1.11/ref/settings/#static-files) piece of Django documentation
