@@ -10,7 +10,7 @@ Fork with repository to create your own mezzanine-project
 Clone it to your machine
 
 ## STEP #3
-Create virtual environment for your project and install dependencies by command:
+Create virtual environment for your project and install dependencies by command:<br>
 `pip install -r requirements.txt`
 
 ## STEP #4 (Little bit configure)
@@ -20,14 +20,14 @@ You have 2 ways:
 * Configure it int settings_local.py (privilege)
 [This](https://docs.djangoproject.com/en/1.11/ref/settings/#databases) can help you
 #### Static files config
-You can use [that](https://docs.djangoproject.com/en/1.11/ref/settings/#static-files) pies of Django documentation
+You can use [that](https://docs.djangoproject.com/en/1.11/ref/settings/#static-files) piece of Django documentation
 
 ## STEP #4
-Migrate your DB by using command:
+Migrate your DB by using command:<br>
 `python manage.py migrate`
 
 ## STEP #5 (optional)
-Create admin user for test that you project works, with this command:
+Create admin user for test that you project works, with this command:<br>
 `python manage.py createsuperuser`
 
 # USED DISTRIBUTIONS
