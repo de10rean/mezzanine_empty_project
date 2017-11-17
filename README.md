@@ -4,8 +4,19 @@ It is for you - peaple that tired to do it again and again.
 # QUICK START
 
 ## STEP #1
-Clone it to your machine
 
+Duplicate it repository
+
+* Create a bare mirrored clone of the repository
+```bash
+git clone --mirror https://github.com/de10rean/mezzanine_empty_project.hit <your project directory>
+```
+* Set the push location to your mirror.
+```bash
+cd <your project directory>
+git remote set-url --push origin https://github.com/<your user>/<your repository> 
+```
+  
 ## STEP #2
 Create virtual environment for your project and install dependencies by command:<br>
 `pip install -r requirements.txt`
