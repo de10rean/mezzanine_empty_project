@@ -1,5 +1,5 @@
 # MEZZANINE EMPTY PROJECT
-It is for you - peaple that tired to do it again and again.  
+It is for you - people that tired to do it again and again.  
 
 # QUICK START
 
